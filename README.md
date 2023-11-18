@@ -1,8 +1,9 @@
-### Hi there 👋
-hola
----
+### HOLA, SOY ROCIO
+Estudiante de [4GeeksAcademy](https://github.com/4GeeksAcademy)
+Aprendiendo: 
+| HTML| CSS| JavaScrip|
+| --- | ---| ---------|
 
-<!--
 **Rociosantos18/rociosantos18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

@@ -7,5 +7,5 @@ Aprendiendo:
 - [ ] CSS
 - [x] BOOSTRAP
 - [ ] JAVASCRIPT
-- [ ] 
+- [x] LA LINEA DE COMANDOS
 

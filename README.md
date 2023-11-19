@@ -1,4 +1,4 @@
-###  :wafe: HOLA, SOY ROCIO
+ ### 👋 HOLA, SOY ROCIO
 Estudiante de [4GeeksAcademy](https://github.com/4GeeksAcademy)
 
 
@@ -11,6 +11,6 @@ Aprendiendo:
 
 Me gusta:
 
-| Programar | Comer | Los perros | Pasear | La Musica |
+|💻 Programar | 🍝 Comer | 🐕 Los perros |  🚶‍♀️ Pasear | 🎵 La Musica |
 | ---------- | ---------- | ---| ---|---|
 

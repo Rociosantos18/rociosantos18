@@ -1,6 +1,4 @@
-<div text:"center">
-<h1 text:"center"> 👋 HOLA, SOY ROCIO </h1>
-</div>
+<h1> 👋 HOLA, SOY ROCIO </h1>
 
 ![](https://d2a5isokysfowx.cloudfront.net/wp-content/uploads/2022/02/%C2%BFQue-es-un-framework-en-programacion-scaled.jpg)
  
@@ -17,5 +15,5 @@ Aprendiendo:
 Me gusta:
 
 |💻 Programar | 🍝 Comer | 🐕 Los perros |  🚶‍♀️ Pasear | 🎵 La Musica |
-| ---------- | ---------- | ---| ---|---|
+| ----------- | --------- | --------------| -----------|---------------|
 

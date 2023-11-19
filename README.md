@@ -1,6 +1,6 @@
  ### 👋 HOLA, SOY ROCIO
 
-![Texto alternativo](https://i.blogs.es/fd396a/hook/1366_2000.jpg)
+![](https://d2a5isokysfowx.cloudfront.net/wp-content/uploads/2022/02/%C2%BFQue-es-un-framework-en-programacion-scaled.jpg)
  
 Estudiante de [4GeeksAcademy](https://github.com/4GeeksAcademy)
 

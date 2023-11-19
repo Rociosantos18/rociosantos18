@@ -1,4 +1,7 @@
  ### 👋 HOLA, SOY ROCIO
+
+![Texto alternativo](https://i.blogs.es/fd396a/hook/1366_2000.jpg)
+ 
 Estudiante de [4GeeksAcademy](https://github.com/4GeeksAcademy)
 
 

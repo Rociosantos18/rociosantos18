@@ -1,7 +1,6 @@
 <h1> 👋 HOLA, SOY ROCIO </h1>
 
-|![](https://d2a5isokysfowx.cloudfront.net/wp-content/uploads/2022/02/%C2%BFQue-es-un-framework-en-programacion-scaled.jpg)|hola que tal |
-|---|---|
+|![](https://d2a5isokysfowx.cloudfront.net/wp-content/uploads/2022/02/%C2%BFQue-es-un-framework-en-programacion-scaled.jpg)
  
 Estudiante de [4GeeksAcademy](https://github.com/4GeeksAcademy)
 

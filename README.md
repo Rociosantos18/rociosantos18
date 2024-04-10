@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rocio Santos</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
-- 🔭 I’m currently working on **CompisApp** <a href:"https://sample-service-name-hqll.onrender.com">
+- 🔭 I’m currently working on **CompisApp** 
 
 - 🌱 I’m currently learning **TypeScript, Angular, Node, MEAN**
 
